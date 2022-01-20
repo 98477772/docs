@@ -55,7 +55,7 @@ When you want to use an {% data variables.product.prodname_oauth_app %} that int
 
 ### Types of requested data
 
-{% data variables.product.prodname_oauth_apps %} can request several types of data.
+{% data variables.product.prodname，_oauth_apps %} can request several types of data.
 
 | Type of data | Description |
 | --- | --- |
